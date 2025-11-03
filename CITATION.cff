@@ -16,8 +16,8 @@ authors:
     given-names: Antonio J.
     family-names: Pérez-Luque
 identifiers:
-  - type: url
-    value: 'https://ajpelu.github.io/teach_dp2023_gbif/'
+  - type: doi
+    value: 'https://doi.org/10.5281/zenodo.17516296'
 repository-code: 'https://ajpelu.github.io/teach_dp2023_gbif/'
 abstract: >-
   Material for the "Data Papers" module within the course
