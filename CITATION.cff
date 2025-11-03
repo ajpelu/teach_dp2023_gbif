@@ -1,0 +1,34 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Módulo Artículo de Datos. Curso: Estandarización y
+  publicación de datos de biodiversidad marinos en GBIF y en
+  revistas científicas (data papers)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - email: ajpelu@gmail.com
+    orcid: 'https://orcid.org/0000-0002-1747-0469'
+    given-names: Antonio J.
+    family-names: Pérez-Luque
+identifiers:
+  - type: url
+    value: 'https://ajpelu.github.io/teach_dp2023_gbif/'
+repository-code: 'https://ajpelu.github.io/teach_dp2023_gbif/'
+abstract: >-
+  Material for the "Data Papers" module within the course
+  GBIF.ES Workshop: Standardisation and publication of
+  marine biodiversity data in GBIF and scientific journals
+  (data papers) (In spanish), hosted by GBIF-Spain node,
+  held in Madrid 21-22 March 2023. More info at
+  https://gbif.es/talleres/estandarizacion-publicacion-datos-marinos/ 
+keywords:
+  - data papers
+  - biodiviersity data
+  - publishing
+license: CC-BY-4.0
+date-released: '2023-03-22'
